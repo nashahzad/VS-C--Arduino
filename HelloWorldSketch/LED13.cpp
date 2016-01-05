@@ -1,4 +1,4 @@
-// 
+// Define all the functions for class, LED13
 // 
 // 
 

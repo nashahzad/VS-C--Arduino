@@ -1,4 +1,5 @@
 // LED13.h
+//Declare the class and function names/types
 
 #ifndef _LED13_h
 #define _LED13_h
